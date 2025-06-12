@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|c:\\users\\pchdz\\desktop\\dapg\\petvax_report\\petvax_report\\user_reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|solutionrelative:petvax_report\\user_reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\admin_reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|solutionrelative:petvax_report\\admin_reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\user_reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|solutionrelative:petvax_report\\user_reportpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\user_reportpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|solutionrelative:petvax_report\\user_reportpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\admin_reportpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8012D7C3-38AB-4AF0-BF27-46FCD6A8D7A4}|petvax_report\\petvax_report.csproj|solutionrelative:petvax_report\\admin_reportpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin_ReportPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\Admin_ReportPage.cs",
+              "RelativeDocumentMoniker": "petvax_report\\Admin_ReportPage.cs",
+              "ToolTip": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\Admin_ReportPage.cs [Design]",
+              "RelativeToolTip": "petvax_report\\Admin_ReportPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:36:32.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_ReportPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\User_ReportPage.cs",
+              "RelativeDocumentMoniker": "petvax_report\\User_ReportPage.cs",
+              "ToolTip": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\User_ReportPage.cs [Design]",
+              "RelativeToolTip": "petvax_report\\User_ReportPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:27:43.454Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User_ReportPage.cs",
+              "DocumentMoniker": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\User_ReportPage.cs",
+              "RelativeDocumentMoniker": "petvax_report\\User_ReportPage.cs",
+              "ToolTip": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\User_ReportPage.cs",
+              "RelativeToolTip": "petvax_report\\User_ReportPage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:37:37.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Admin_ReportPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\Admin_ReportPage.Designer.cs",
+              "RelativeDocumentMoniker": "petvax_report\\Admin_ReportPage.Designer.cs",
+              "ToolTip": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\Admin_ReportPage.Designer.cs",
+              "RelativeToolTip": "petvax_report\\Admin_ReportPage.Designer.cs",
+              "ViewState": "AgIAAE0BAAAAAAAAAAAowD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:35:52.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User_ReportPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\User_ReportPage.Designer.cs",
+              "RelativeDocumentMoniker": "petvax_report\\User_ReportPage.Designer.cs",
+              "ToolTip": "C:\\Users\\pchdz\\Desktop\\dapg\\petvax_report\\petvax_report\\User_ReportPage.Designer.cs",
+              "RelativeToolTip": "petvax_report\\User_ReportPage.Designer.cs",
+              "ViewState": "AgIAAEcBAAAAAAAAAAAowHUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T13:27:30.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
